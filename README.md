@@ -81,3 +81,5 @@ Type "help" for help.
 saleor=# history
 saleor-# 
 select 'drop table "' || tablename || '" cascade;' from pg_tables;
+
+- https://stackoverflow.com/questions/3327312/how-can-i-drop-all-the-tables-in-a-postgresql-database
